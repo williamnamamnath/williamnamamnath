@@ -25,6 +25,6 @@ I’m a full stack web developer that has practical experience with the MERN sta
 
  
 
-**LinkedIn:** [LinkedIn Profile] (linkedin.com/in/william-nam-amnath) 
+**LinkedIn:** [LinkedIn Profile](linkedin.com/in/william-nam-amnath) 
 
 **Email:** william.nam-amnath@mail.mcgill.ca
