@@ -1,11 +1,6 @@
 # William Nam-Amnath - @williamnamamnath
 
-## Full-Stack Web Developer
-
-🧑‍💻 HTML | CSS | Javascript | MongoDB | Express.js | React.js | Node.js
-
-</br> 📍Montreal, Canada
-
+## Full-Stack Web Developer - 🧑‍💻 HTML | CSS | Javascript | MongoDB | Express.js | React.js | Node.js
 
 
 ## About me
