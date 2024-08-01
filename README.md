@@ -1,4 +1,4 @@
-# William Nam-Amnath
+# William Nam-Amnath - @williamnamamnath
 
 ## Full-Stack Web Developer
 
