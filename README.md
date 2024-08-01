@@ -3,9 +3,9 @@
 ## Full-Stack Web Developer - 🧑‍💻 HTML | CSS | Javascript | MongoDB | Express.js | React.js | Node.js
 
 
-## About me
-
 --------
+
+## About me
 
 
 
@@ -19,11 +19,9 @@ I’m a full stack web developer that has practical experience with the MERN sta
 
 
 
-
+------------
 
 ## Feel free to reach out!
-
-------------
 
  
 
