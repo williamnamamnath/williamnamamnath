@@ -1,6 +1,10 @@
 # William Nam-Amnath - @williamnamamnath
 
-## Full-Stack Web Developer - 🧑‍💻 HTML | CSS | Javascript | MongoDB | Express.js | React.js | Node.js
+## Full-Stack Web Developer 
+
+--------
+
+🧑‍💻 HTML | CSS | Javascript | MongoDB | Express.js | React.js | Node.js
 
 
 --------
