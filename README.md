@@ -19,9 +19,12 @@ I’m a full stack web developer with experience using the MERN stack.
 
 
 I love learning new frameworks and acquiring new skills to stay up-to-date. 
-:musical_note: Music fanatic
-:basketball: Basketball enthusiast
-:pizza: Food maniac
+
+- 🎵 Music fanatic
+  
+- 🏀 Basketball enthusiast
+  
+- 🍕 Food maniac
 
 
 
