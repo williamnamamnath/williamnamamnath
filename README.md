@@ -3,25 +3,19 @@
 ## Full-Stack Web Developer 
 
 
-**CSS | Javascript | MongoDB | Express.js | React.js | Node.js**
-
-
 --------
 
 ## About Me
 
 
 
-**Hi there!** 👋 
+***Hi there!*** 👋 
 
 
-I’m a ***full stack web developer*** with experience using the MERN stack. I earned my diploma in web development from the Concordia University bootcamp in May 2024. I love learning new frameworks and acquiring new skills to stay up-to-date. 
+My name's William and I’m a **full stack web developer**. I have a great interest in the frontend as it allows me to express my artistic creativity via coding. 
 
-- 🎵 Music fanatic
-  
-- 🏀 Basketball enthusiast
-  
-- 🍕 Food maniac
+- 👷‍♂️ I’m currently working on project [NFIB](https://github.com/williamnamamnath/project-nfib)
+- 👨‍💻 I'm currently learning: <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 
 
 
