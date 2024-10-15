@@ -3,7 +3,7 @@
 ## Full-Stack Web Developer 
 
 
-🧑‍💻 HTML | CSS | Javascript | MongoDB | Express.js | React.js | Node.js
+**CSS | Javascript | MongoDB | Express.js | React.js | Node.js**
 
 
 --------
