@@ -35,7 +35,7 @@ My name's William and I’m a **full stack web developer**. I love expressing my
 
 ------------
 
-## Feel Free To Reach Out!
+## Let's connect!
 
  
 
