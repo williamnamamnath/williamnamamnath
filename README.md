@@ -14,7 +14,7 @@
 
 My name's William and I’m a **full stack web developer**. I love expressing my passion and my creativity by coding the frontend. 
 
-- 👷‍♂️ I’m currently working on project [NFIB](https://github.com/williamnamamnath/project-nfib)
+- 👷‍♂️ I’m currently working on [project NFIB](https://github.com/williamnamamnath/project-nfib)
 - 👨‍💻 I'm currently learning: <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 
 
