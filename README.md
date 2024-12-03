@@ -1,12 +1,9 @@
-# William Nam-Amnath - @williamnamamnath
+# William Nam-Amnath - @williamnamamnath 👨‍💻
 
-## Full-Stack Web Developer 
+### Full-Stack Web Developer 
 
 
 --------
-
-## About Me 👨
-
 
 
 ***Hi there!*** 👋 
@@ -14,9 +11,10 @@
 
 My name's William and I’m a **full stack web developer**. I love expressing my passion for coding on the backend and my creativity on the frontend. 
 
-- 👷‍♂️ I’m currently working on...
+- 🛠️ I’m currently working on...
   - [Project NFIB](https://github.com/williamnamamnath/project-nfib), a freelance project. 
   - A [list app](https://github.com/williamnamamnath/list-app) that solidifies my learning of TypeScript.
+
 
 - 👨‍💻 I'm currently learning <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a> | Check out the [repository](https://github.com/williamnamamnath/typescript-tutorial) to see what I've learned so far.
 
