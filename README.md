@@ -5,7 +5,7 @@
 
 --------
 
-## About Me
+## About Me 👨
 
 
 
@@ -24,7 +24,7 @@ My name's William and I’m a **full stack web developer**. I love expressing my
 
 ------------
 
-## My Tech Stack
+## My Tech Stack 📈
 
 **Programming Languages**
 
@@ -38,7 +38,7 @@ My name's William and I’m a **full stack web developer**. I love expressing my
 
 ------------
 
-## Let's connect!
+## Let's connect 🤝 
 
  
 
