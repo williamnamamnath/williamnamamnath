@@ -12,7 +12,7 @@
 My name's William and I’m a **full stack web developer**. I love expressing my passion for coding on the backend and my creativity on the frontend. 
 
 - 👨‍💻 I'm currently learning <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a> 
-Check out my TypeScript tutorial [repository](https://github.com/williamnamamnath/typescript-tutorial) to see what I've learned so far.
+| Check out my TypeScript tutorial [repository](https://github.com/williamnamamnath/typescript-tutorial) to see what I've learned so far.
 
 
 - 🛠️ I’m currently working on...
