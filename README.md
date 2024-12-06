@@ -13,7 +13,7 @@ My name's William and I’m a **full stack web developer**. I love expressing my
 
 - 🛠️ I’m currently working on...
   - [Project NFIB](https://github.com/williamnamamnath/project-nfib), a freelance project. 
-  - A [list app](https://github.com/williamnamamnath/list-app) that solidifies my learning of TypeScript.
+  - A [list app](https://github.com/williamnamamnath/list-app) and a [notes app](https://github.com/williamnamamnath/notes-app) that solidify my knowledge of TypeScript.
 
 
 - 👨‍💻 I'm currently learning <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a> 
