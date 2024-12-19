@@ -1,6 +1,6 @@
 # William Nam-Amnath - @williamnamamnath 👨‍💻
 
-### Full-Stack Web Developer 
+## Full-Stack Web Developer 
 
 
 --------
@@ -37,7 +37,7 @@ My name's William and I’m a **full stack web developer**. I love expressing my
 
 ------------
 
-## Let's connect 🤝 
+## Let's Connect 🤝 
 
  
 
