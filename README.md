@@ -11,12 +11,13 @@
 
 My name's William and I’m a **full stack web developer**. I love expressing my passion for coding on the backend and my creativity on the frontend. 
 
-- 👨‍💻 I'm currently learning <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"></a> 
+**👨‍💻 I'm currently learning...** 
+- <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"></a> 
 
 
-- 🛠️ I’m currently working on...
-  - [Project NFIB](https://github.com/williamnamamnath/project-nfib), a freelance project. 
-  - A [notes app](https://github.com/williamnamamnath/notes-app) to solidify my Typescript knowledge.
+**🛠️ I’m currently working on...***
+- [Project NFIB](https://github.com/williamnamamnath/project-nfib), a freelance project. 
+- A [notes app](https://github.com/williamnamamnath/notes-app) to solidify my Typescript knowledge.
 
 
 
@@ -41,6 +42,6 @@ My name's William and I’m a **full stack web developer**. I love expressing my
 
  
 
-**LinkedIn:** [linkedin.com/in/william-nam-amnath](linkedin.com/in/william-nam-amnath) 
+- **LinkedIn:** [linkedin.com/in/william-nam-amnath](linkedin.com/in/william-nam-amnath) 
 
-**Email:** william.nam-amnath@mail.mcgill.ca
+- **Email:** william.nam-amnath@mail.mcgill.ca
