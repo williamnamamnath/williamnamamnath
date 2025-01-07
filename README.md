@@ -12,7 +12,8 @@
 My name's William and I’m a **full stack web developer**. I love expressing my passion for coding on the backend and my creativity on the frontend. 
 
 **👨‍💻 I'm currently learning...** 
-- <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"></a> 
+- Bootstrap
+- Angular
 
 
 **🛠️ I’m currently working on...**
