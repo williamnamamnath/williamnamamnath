@@ -15,7 +15,7 @@ My name's William and I’m a **full stack web developer**. I love expressing my
 
 
 **🛠️ I’m currently working on...**
-- [Project NFIB](https://github.com/williamnamamnath/project-nfib), a freelance project. 
+- Improving my [portfolio](https://github.com/williamnamamnath/portfolio) by using Bootstrap. 
 - A [notes app](https://github.com/williamnamamnath/notes-app) to solidify my Typescript knowledge.
 
 
