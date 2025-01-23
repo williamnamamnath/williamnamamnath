@@ -16,7 +16,7 @@ My name's William and I’m a **full stack web developer**. I love expressing my
 
 **🛠️ I’m currently working on...**
 - Improving my [portfolio](https://github.com/williamnamamnath/portfolio) by using Bootstrap. 
-- A [notes app](https://github.com/williamnamamnath/notes-app) to solidify my Typescript knowledge.
+- Project [MHQ](https://github.com/williamnamamnath/mhq-app), a Typescript project.
 
 
 
