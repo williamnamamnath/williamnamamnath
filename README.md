@@ -37,7 +37,7 @@ My name's William and I’m a **full stack web developer**. I love expressing my
 
 **CSS Frameworks**
 
-<a href="#"><img alt="Botstrap" src="https://img.shields.io/badge/Bootstrap-v5.3.0-blue"></a>
+<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-v5.3.0-blue"></a>
 
 
 ------------
