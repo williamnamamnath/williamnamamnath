@@ -10,9 +10,8 @@
 My name's William and I’m a **full stack web developer**. I love expressing my passion for coding on the backend and my creativity on the frontend. 
 
 **👨‍💻 I'm currently learning...** 
-- Tailwind CSS
-- Angular
 - Python
+- Angular
 - Flutter
 
 
@@ -40,6 +39,7 @@ My name's William and I’m a **full stack web developer**. I love expressing my
 **CSS Frameworks**
 
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-v5.3.0-blue"></a>
+<a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 
 
 ------------
