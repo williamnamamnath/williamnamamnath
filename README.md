@@ -38,7 +38,7 @@ My name's William and I’m a **full stack web developer**. I love expressing my
 
 **CSS Frameworks**
 
-<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-v5.3.0-blue"></a>
+<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 
 
