@@ -15,7 +15,7 @@ My name's William and I’m a **full stack web developer**. I love expressing my
 
 
 **🛠️ I’m currently working on...**
-- Project [MHQ](https://github.com/williamnamamnath/mhq-app), a Typescript project.
+- Improving my [portfolio](https://github.com/williamnamamnath/portfolio).
 
 
 
