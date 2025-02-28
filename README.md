@@ -11,8 +11,7 @@ My name's William and I’m a **full stack web developer**. I love expressing my
 
 **👨‍💻 I'm currently learning...** 
 - Python
-- Angular
-- Flutter
+- Vue.js
 
 
 **🛠️ I’m currently working on...**
