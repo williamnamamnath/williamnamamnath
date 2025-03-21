@@ -37,16 +37,3 @@ My name's William and I’m a **full-stack web developer**. I have a special int
 
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
-
-
-------------
-
-## Let's Connect 🤝 
-
- 
-
-- **LinkedIn:** [linkedin.com/in/william-nam-amnath](linkedin.com/in/william-nam-amnath) 
-
-- **Email:** william.nam-amnath@mail.mcgill.ca
-
-- **Discord:** [wn__21](discordapp.com/users/467529768623931394)
