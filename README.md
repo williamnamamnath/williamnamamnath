@@ -7,15 +7,14 @@
 ***Hi there!*** 👋 
 
 
-My name's William and I’m a **full stack web developer**. I love expressing my passion for coding on the backend and my creativity on the frontend. 
+My name's William and I’m a **full-stack web developer**. I have a special interest for designing aesthetic and user-friendly interfaces. 
 
 **👨‍💻 I'm currently learning...** 
 - Python
-- Vue.js
 
 
 **🛠️ I’m currently working on...**
-- Improving my [portfolio](https://github.com/williamnamamnath/portfolio).
+- [My Amazon Junior Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/amazon-junior-software-developer).
 
 
 
@@ -49,3 +48,5 @@ My name's William and I’m a **full stack web developer**. I love expressing my
 - **LinkedIn:** [linkedin.com/in/william-nam-amnath](linkedin.com/in/william-nam-amnath) 
 
 - **Email:** william.nam-amnath@mail.mcgill.ca
+
+- **Discord:** (wn__21)[https://discord.gg/wn__21]
