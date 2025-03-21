@@ -1,20 +1,17 @@
 # William Nam-Amnath - @williamnamamnath 👨‍💻
 
-## Full-Stack Web Developer 
-
-
 
 ***Hi there!*** 👋 
 
 
 My name's William and I’m a **full-stack web developer**. I have a special interest for designing aesthetic and user-friendly interfaces. 
 
-**👨‍💻 I'm currently learning...** 
-- <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"></a>
+- **👨‍💻 I'm currently learning...** 
+<a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"></a>
 
 
-**🛠️ I’m currently working on...**
-- [My Amazon Junior Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/amazon-junior-software-developer).
+- **🛠️ I’m currently working on...**
+[My Amazon Junior Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/amazon-junior-software-developer)
 
 
 
