@@ -49,4 +49,4 @@ My name's William and I’m a **full-stack web developer**. I have a special int
 
 - **Email:** william.nam-amnath@mail.mcgill.ca
 
-- **Discord:** [wn__21](https://discord.gg/wn__21)
+- **Discord:** [wn__21](discordapp.com/users/467529768623931394)
