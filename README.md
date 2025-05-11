@@ -8,7 +8,9 @@
 My name's William and I’m a **full-stack web developer**. I have a special interest for designing aesthetic and user-friendly interfaces. 
 
 **👨‍💻 I'm currently learning...** 
-- <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"></a>
+- <a href="https://nextjs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next.js Badge"/>
+</a>
 
 
 **🛠️ I’m currently working on...**
