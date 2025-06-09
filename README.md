@@ -38,10 +38,6 @@ My name's William and I’m a **full-stack web developer**. I have a special int
 <a href="https://www.getbootstrap.com" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 <a href="https://www.tailwindcss.com" target="_blank"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 
-**Tools & Methods**
-
-[![IO Shield](https://img.shields.io/badge/IO--Shield-Active-success?style=for-the-badge&logo=shield)](https://yourproject.io/docs)
-
 -------------
 
 ## Let's Connect 🤝
