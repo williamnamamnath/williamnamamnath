@@ -9,7 +9,7 @@ My name's William and I’m a **full-stack web developer**. I have a special int
 
 
 **🛠️ I’m currently working on...**
-- [A budget app](https://github.com/williamnamamnath/budget-app)
+- [SmartTracker], a budget app(https://github.com/williamnamamnath/smart-tracker)
 - [My Amazon Junior Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/amazon-junior-software-developer)
 
 
