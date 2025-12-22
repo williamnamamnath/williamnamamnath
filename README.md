@@ -1,4 +1,4 @@
-# William Nam-Amnath - @williamnamamnath 👨‍💻
+# William Nam-Amnath - @williamnamamnath 
 
 ------------
 
