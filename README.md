@@ -9,7 +9,7 @@ My name's William and I’m a **full-stack web developer**. I have a special int
 
 
 **🛠️ I’m currently working on...**
-- [Movie Watchlist](https://github.com/williamnamamnath/movie-watchlist), a MERN stack project
+- [🎬 Movie Night](https://github.com/williamnamamnath/movie-watchlist), a MERN stack project
 
 
 
