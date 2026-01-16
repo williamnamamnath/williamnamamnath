@@ -5,7 +5,7 @@
 ***Hi there!*** 👋 
 
 
-My name's William and I’m a **full-stack web developer**. I have a special interest for designing aesthetic and user-friendly interfaces. 
+My name's William and I’m a **web developer**. I enjoy working on **full=stack** projects. 
 
 
 **🛠️ I’m currently working on...**
