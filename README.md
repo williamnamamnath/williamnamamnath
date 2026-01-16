@@ -9,7 +9,7 @@ My name's William and I’m a **full-stack web developer**. I have a special int
 
 
 **🛠️ I’m currently working on...**
-- [🎬 Movie Night](https://github.com/williamnamamnath/movie-watchlist), a MERN stack project
+- [NFIB](https://github.com/williamnamamnath/project-nfib), a frontend freelance project.
 
 
 
@@ -32,9 +32,3 @@ My name's William and I’m a **full-stack web developer**. I have a special int
 <a href="https://www.getbootstrap.com" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 <a href="https://www.tailwindcss.com" target="_blank"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 
--------------
-
-## Let's Connect 🤝
-
-<a href="mailto:william.nam-amnath@mail.mcgill.ca"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/william-nam-amnath/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
