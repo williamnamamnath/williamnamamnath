@@ -5,7 +5,7 @@
 ***Hi there!*** 👋 
 
 
-My name's William and I’m a **web developer**. I enjoy working on **full=stack** projects. 
+My name's William and I’m a **web developer**. I enjoy working on **fullstack** projects. 
 
 
 **🛠️ I’m currently working on...**
