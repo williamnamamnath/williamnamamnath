@@ -5,12 +5,7 @@
 ***Hi there!*** 👋 
 
 
-My name's William and I’m a **web developer**, currently exploring how to use AI properly to sharpen my skills. 
-
-
-**🛠️ What project am I working on?**
-- [NFIB](https://github.com/williamnamamnath/project-nfib), a frontend freelance project.
-
+My name's William and I’m a **web developer**, currently working on integrating AI to my workflow. 
 
 
 ------------
