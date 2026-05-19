@@ -2,15 +2,11 @@
 
 ------------
 
-***Hi there!*** 👋 
-
-
-My name's William and I’m a **web developer**, currently working on integrating AI to my workflow. 
-
+***Hi there!*** 👋 I’m a **web developer** exploring the possibillities and benefits of AI in coding. 
 
 ------------
 
-## My Tech Stack 📈
+## My Tech Stack 👨‍💻
 
 **Languages and Styling Libraries**
 
